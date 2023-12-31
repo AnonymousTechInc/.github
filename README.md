@@ -1,4 +1,4 @@
-# .github
+# AnonymousTechInc
 -Hi there!
 
 -Who are we?
