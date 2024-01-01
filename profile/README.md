@@ -6,7 +6,7 @@
 
 This is new Russo-Serbian startup
 
- -What we make?
+- What we make?
 
 We write, design and make programs for any type of user
 
