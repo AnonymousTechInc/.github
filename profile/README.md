@@ -1,24 +1,24 @@
 # AnonymousTechInc
 
--Hi there!
+- Hi there!
 
--Who are we?
+- Who are we?
 
 This is new Russo-Serbian startup
 
--What we make?
+ -What we make?
 
 We write, design and make programs for any type of user
 
--Who is CEO?
+- Who is CEO?
 
 @Anonymous6598
 
--Plans?
+- Plans?
 
 More apps for more users.
 
--What do we appreciate?
+- What do we appreciate?
 1. Ambitions
 2. Creativity
 3. Originality
