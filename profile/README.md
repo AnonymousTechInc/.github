@@ -4,7 +4,7 @@
 
 - Who are we?
 
-This is new Russo-Serbian startup
+This is new Serbian startup
 
 - What we make?
 
